@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: e286240f782b6554f95fe110d9b3a1bd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Neometric
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 41d6d60456cca3441a018f928c037a74, type: 3}
+  - {fileID: 12800000, guid: 003b281981a2a534e99d5e3b42789f39, type: 3}
+  - {fileID: 12800000, guid: 7026d84ad9713b4459e698b27ee693c9, type: 3}
+  - {fileID: 12800000, guid: d01ffb2bec6561b4a89b3ab77724eaa8, type: 3}
+  - {fileID: 12800000, guid: 51d0de0d99db2c04eace6d5c426bcdf6, type: 3}
+  - {fileID: 12800000, guid: d2224b1d52a125b458cf82b522ec23a1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
