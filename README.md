@@ -1,4 +1,2 @@
 # Fall-Down
-Fall Down is a mobile game application developed for Android based operating system. These 
-are the methodology used in the development of Fall Down : Game initiation, System design, 
-production phase. For more detail explanation will be discussed in the following topic.
+Music Box is an Arcade based Rythm game where you control your character by tilting your device. Collect powerups to gain bonus score and extra lives, avoid obstacles, and try your best to get to the end of the song! Pick your choice from a collection of 11 different songs, each with their own unique layouts, length, and difficulty. Once you're in, you'll never get out!
